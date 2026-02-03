@@ -54,7 +54,7 @@ In a retail environment where revenue can be misleading, margin discipline is cr
 This project demonstrates the transition from data visualization to strategic consulting:
 
 **Data Modeling (Star Schema)**
-![Data Model](Data_Starchema.png)
+![Data Model](Data_StarSchema.png)
 *Designed a centralized Star Schema architecture, connecting the Fact Table (Orders) to Dimensions (People, Date) for optimized query performance.*
 
 * **Profitability Decomposition:** Breaking down P&L from Category $\to$ Sub-Category $\to$ SKU level.
