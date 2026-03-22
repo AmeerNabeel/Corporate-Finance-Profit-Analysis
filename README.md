@@ -15,7 +15,7 @@
 
 *High-level view of Net Sales, Profit Margins, and YoY Growth trends.*
 
-**Page 2: Product & Regional Diagnostics**
+**Page 2: Product & Category Diagnostics**
 ![Page 2 Matrix](Page2.png)
 *Deep-dive matrix and scatter plots identifying "Profit Killers" (High Revenue / Negative Margin).*
 
