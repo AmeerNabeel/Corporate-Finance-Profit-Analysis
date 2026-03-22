@@ -11,18 +11,16 @@
 ### 🖼️ Dashboard Showcase
 
 **Page 1: Executive Overview**
-![Page 1 Overview](<img width="1377" height="775" alt="Page 1" src="https://github.com/user-attachments/assets/afd1ead3-d04f-4884-9fbd-b968b21501ae" />
-)
+![Page 1 Overview](page1.png)
+
 *High-level view of Net Sales, Profit Margins, and YoY Growth trends.*
 
 **Page 2: Product & Regional Diagnostics**
-![Page 2 Matrix](<img width="1377" height="773" alt="Page 2" src="https://github.com/user-attachments/assets/d2cd3b91-6b81-4e59-bcdc-701f4ee72678" />
-)
+![Page 2 Matrix](page2.png)
 *Deep-dive matrix and scatter plots identifying "Profit Killers" (High Revenue / Negative Margin).*
 
 **Page 3: Strategic Action Plan**
-![Page 3 Strategy](<img width="1376" height="774" alt="Page 3" src="https://github.com/user-attachments/assets/a1c4b0b3-c791-401d-bd6b-00ac0b4edeba" />
-)
+![Page 3 Strategy](page3.png)
 *Executive summary quantifying the financial uplift of specific interventions.*
 
 ---
