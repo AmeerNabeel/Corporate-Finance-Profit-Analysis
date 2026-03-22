@@ -1,4 +1,6 @@
-# 💰 Global Superstore | Corporate Financial Analysis
+#Dashboard designed for client-facing presentation to SMB owners in Kurdistan Region, Iraq
+
+# Al-Noor Retail Group | Business Performance & Profitability Dashboard
 
 ### 📊 Project Overview
 **Goal:** Transform raw transactional data into a prescriptive decision-making tool. This project goes beyond descriptive analytics to identify margin leakage, loss-making SKUs, and discount strategy failures.
