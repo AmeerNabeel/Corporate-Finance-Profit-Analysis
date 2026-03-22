@@ -11,16 +11,16 @@
 ### 🖼️ Dashboard Showcase
 
 **Page 1: Executive Overview**
-![Page 1 Overview](page1.png)
+![Page 1 Overview](Page 1.png)
 
 *High-level view of Net Sales, Profit Margins, and YoY Growth trends.*
 
 **Page 2: Product & Regional Diagnostics**
-![Page 2 Matrix](page2.png)
+![Page 2 Matrix](Page 2.png)
 *Deep-dive matrix and scatter plots identifying "Profit Killers" (High Revenue / Negative Margin).*
 
 **Page 3: Strategic Action Plan**
-![Page 3 Strategy](page3.png)
+![Page 3 Strategy](Page 3.png)
 *Executive summary quantifying the financial uplift of specific interventions.*
 
 ---
